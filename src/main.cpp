@@ -1,7 +1,6 @@
-#include <print>
+#include <iostream>
 
 int main() {
-
-    std::println("Привет");
+    std::cout << "Template" << '\n';
     return 0;
 }

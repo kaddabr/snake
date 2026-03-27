@@ -21,7 +21,7 @@ AllowShortFunctionsOnASingleLine: Inline  # Allow small functions to be inline
 
 
 # Column and Wrapping Rules
-ColumnLimit: 120                         # Maximum line width (increase for wide monitors)
+ColumnLimit: 90                         # Maximum line width (increase for wide monitors)
 PenaltyExcessCharacter: 5000             # Higher penalty for exceeding column limit
 PenaltyBreakBeforeFirstCallParameter: 50 # Lower penalty for breaking function calls
 PenaltyBreakString: 100                  # Prefer keeping long strings on one line
